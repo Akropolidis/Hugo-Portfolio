@@ -3,8 +3,6 @@ title = "Resume"
 slug = "Resume"
 +++
 
-Nothing to see here... Move along eh!
+Nothing to see here... Move along e!
 
-[params]
-
-    featuredImage = "https://github.com/Akropoldis/Hugo-Portfolio/static/images/gear.png"
+{{< figure src="images/avatar.jpg" title="gear" >}}

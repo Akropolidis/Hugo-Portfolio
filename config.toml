@@ -1,4 +1,4 @@
-baseURL = "https://euphonious-moonbeam-a79c3c.netlify.app/"
+baseURL = "https://charles-adeyanju.netlify.app/"
 title = "Charles Adeyanju"
 theme = "hugo-coder"
 languageCode = "en"
@@ -12,11 +12,11 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "John Doe"
+author = "Charles Adeyanju"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "John Doe's personal website"
+description = "Charles Adeyanju's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+info = ["Mechatronics Engineering Student at University of Waterloo", "Magician"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"

@@ -122,18 +122,10 @@ weight = 4
 url = "http://www.linkedin.com/in/charles-adeyanju"
 
 [[params.social]]
-name = "Medium"
-icon = "fa fa-2x fa-medium"
+name = "Email"
+icon = "fa fa-2x fa-m=envelope"
 weight = 5
-url = "https://medium.com/@johndoe"
-
-[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+url = "contact/"
 
 [languages.en]
 languageName = ":uk:"

@@ -3,7 +3,7 @@ title = "Resume"
 slug = "Resume"
 +++
 
-Nothing to see here... Move along e!
+Nothing to see here... Move along eh!
 
-# {{< figure src="static\images/avatar.jpg" title="avatar" >}}
-{{< figure src="../static/images/avatar.jpg" title="Steve Francia" >}}
+{{ < embed-pdf url="./../data/test.pdf" > }}
+

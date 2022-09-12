@@ -5,4 +5,4 @@ slug = "Resume"
 
 Nothing to see here... Move along eh!
 
-featuredImage = "gear.png"
+featuredImage = "https://github.com/Akropoldis/Hugo-Portfolio/static/images/gear.png"

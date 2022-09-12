@@ -16,7 +16,7 @@ author = "Charles Adeyanju"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Charles Adeyanju's personal website"
 keywords = "blog,developer,personal"
-info = ["Mechatronics Engineering Student at University of Waterloo", "Magician"]
+info = ["Mechatronics Engineering Student at University of Waterloo"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -110,10 +110,10 @@ weight = 1
 url = "https://github.com/Akropolidis"
 
 [[params.social]]
-name = "Twitter"
-icon = "fa fa-2x fa-twitter"
+name = "Phone"
+icon = "fa fa-2x fa-phone"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "contact/"
 
 [[params.social]]
 name = "LinkedIn"

@@ -18,7 +18,6 @@ description = "Charles Adeyanju's personal website"
 keywords = "blog,developer,personal"
 info = ["Mechatronics Engineering Student at University of Waterloo"]
 avatarURL = "images/gear.png"
-# touchIcon = "images/N90.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019

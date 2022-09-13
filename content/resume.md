@@ -5,5 +5,5 @@ slug = "Resume"
 
 Nothing to see here... Move along eh!
 
-{{ < embed-pdf url="./test.pdf" > }}
+{{ < embed-pdf url="./content/test.pdf" > }}
 

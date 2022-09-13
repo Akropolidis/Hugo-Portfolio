@@ -5,7 +5,7 @@ slug = "Resume"
 
 Nothing to see here... Move along eh!
 
-[image alt text](images/gear.png)
+[image alt text](/static/images/gear.png)
 
 
 

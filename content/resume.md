@@ -5,5 +5,8 @@ slug = "Resume"
 
 Nothing to see here... Move along eh!
 
-{{ < embed-pdf url="content/test.pdf" > }}
+[image alt text](images/gear.png)
+
+
+
 
